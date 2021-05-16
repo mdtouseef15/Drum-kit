@@ -77,14 +77,14 @@ body {
   }
   
   @media(max-width:991px){
-    .drum{
-    padding:15px;
-    /* text-align: center;
+    .set{
+    padding:40px;
+    /* text-align: center; */
     /* display: block; */
     /* justify-items: center; */
     /* width: 150px;
     height: 150px; */
     
-    /* margin: 10px 10px 10px 150px; */
+    /* margin: 10px 10px 10px 100px; */
     }
   }
