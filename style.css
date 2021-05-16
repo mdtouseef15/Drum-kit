@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-image: url(black-background.jpg);
+    background-image: url(blue.jpg);
     position: absolute;
     top:0;
     left:0;
@@ -23,6 +23,7 @@ body {
     color: #0eee59;
     font-size: 2rem;
     font-family: Dancing Script;
+    text-shadow: 2px 0 #0c0b0b;
   }
   
   /* .♪ {
