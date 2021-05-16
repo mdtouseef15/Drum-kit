@@ -78,11 +78,12 @@ body {
   
   @media(max-width:991px){
     .drum{
-    width: 150px;
+    padding:40px;
+    /* width: 150px;
     height: 150px;
     text-align: center;
     margin: 10px 10px 10px 150px;
     
-    display: block;
+    display: block; */
     }
   }
